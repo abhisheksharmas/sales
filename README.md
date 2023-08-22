@@ -49,6 +49,7 @@ and transactions.market_code="Mark001";`
 
 Data Analysis Using Power BI	
 ============================
+![Capture](https://github.com/abhisheksharmas/sales/assets/47221973/24209376-fc67-43ba-9917-c0c555744f95)
 
 
 
@@ -56,6 +57,7 @@ Data Analysis Using Power BI
 
 DATA ANALYSIS IN DIFFERENT YEARS AND IN DIFFERENT MONTHS
 
+![Capture2](https://github.com/abhisheksharmas/sales/assets/47221973/4767332a-b08b-45ae-8208-6286f90dc1d4)
 
 
 
